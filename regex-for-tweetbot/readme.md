@@ -1,4 +1,4 @@
-Regex for Tweetbot Filters 
+Regex for Tweetbot Filters
 ==========================
 
-A collection of regular expressions that can be used in Tweetbot's keyword filters
+A collection of regular expressions that can be used in Tweetbot's keyword filters.
